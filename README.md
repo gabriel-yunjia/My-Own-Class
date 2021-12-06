@@ -30,7 +30,7 @@ main
 Demo Program
 
 README - Demo Program Notes - Description
-The demo program is set in the main function and used to demonstrate how the program runs a whole.
+The demo program is set in the main function and displays how information can be read, added, or removed.
 README - Demo Program Notes - Instructions
 Users are able to run the program on any device that supports the Python language.
 
