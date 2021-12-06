@@ -1,4 +1,4 @@
-# My-Own-Class
+# Vertebrate-Class
 
 README - Class Documentation - Class Description
 Class Vertebrate is designed as a dictionary created to retrieve biological classifications under vertebrate species. It enables the user to create/remove species, adding/removing animals under their corresponding species and printing out a list of certain species and animals by the specific requirements.
